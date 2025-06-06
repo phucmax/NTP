@@ -349,9 +349,7 @@ local v16 = {
     Teleport = v15:AddTab({
         Title = "Dịch Chuyển"
     }),
-    Visual = v15:AddTab({
-        Title = "Giả"
-    }),
+    
     Fruit = v15:AddTab({
         Title = "Trái"
     }),
